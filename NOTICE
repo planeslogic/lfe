@@ -1,0 +1,11 @@
+LFE Go SDK
+Copyright 2026 PlanesLogic
+
+The LFE Go SDK source code in this repository is licensed under the
+Apache License, Version 2.0.
+
+The bundled LFE Engine native binary is proprietary software and is
+not licensed under the Apache License, Version 2.0.
+
+Use of the LFE Engine native binary requires a valid LFE commercial
+license and is governed by separate commercial license terms.

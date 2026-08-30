@@ -17,7 +17,15 @@ make test
 
 `make native` builds the production native artifact with the canonical LFE BE production trust-root identity. `make test` builds an isolated test-native artifact with an ephemeral test trust root and runs the Go test suite.
 
-## License
+## Licensing
+
+The LFE Go SDK source code is licensed under the Apache License, Version 2.0.
+
+The bundled LFE Engine native binary is proprietary PlanesLogic software. It is not licensed under the Apache License, Version 2.0 and is governed by separate LFE commercial license terms.
+
+See [LICENSE](LICENSE), [NOTICE](NOTICE), and [native/COMMERCIAL-LICENSE-NOTICE](native/COMMERCIAL-LICENSE-NOTICE) for the distribution license boundary.
+
+### Engine entitlement
 
 Production Engine construction requires a valid signed LFE BE license.
 
