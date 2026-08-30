@@ -9,7 +9,7 @@ import (
 	"sort"
 	"time"
 
-	lfe "github.com/planeslogic/lfe"
+	lfe "github.com/planeslogic/lfe-go"
 )
 
 const (

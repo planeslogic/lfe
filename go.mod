@@ -1,3 +1,3 @@
-module github.com/planeslogic/lfe
+module github.com/planeslogic/lfe-go
 
 go 1.22
