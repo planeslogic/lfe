@@ -298,14 +298,14 @@ The repository includes an executable application-shaped demo covering heterogen
 
 ```bash
 LFE_BE_LICENSE_PATH=/path/to/license.json \
-  go run ./demos/transaction-risk
+  go run ./examples/transaction-risk
 ```
 
 Scale mode uses the same public SDK surface with deterministic generated transactions:
 
 ```bash
 LFE_BE_LICENSE_PATH=/path/to/license.json \
-  go run ./demos/transaction-risk \
+  go run ./examples/transaction-risk \
   -records 1000000 \
   -batch 100000
 ```

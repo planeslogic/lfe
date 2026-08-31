@@ -486,7 +486,7 @@ ResolveFromSetEx(flag)
 SeqSetEx
 ```
 
-The repository's `demos/transaction-risk` program executes this pattern and
+The repository's `examples/transaction-risk` program executes this pattern and
 checks exact membership against a deterministic Go truth oracle.
 
 ### D. Independent regions and composition
